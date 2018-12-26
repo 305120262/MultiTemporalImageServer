@@ -1,0 +1,8 @@
+{
+"caches":[
+{"ts":1144,"path":"C:\\Data\\DemoData\\TemporalImage\\gz1_cache\\Layers","name":"2016"},
+{"ts":1143,"path":"C:\\Data\\DemoData\\TemporalImage\\gz2_cache\\Layers","name":"2012"}
+],
+"schema":"C:\\Data\\Projects\\MultiTemporalImageServer\\conf.xml"
+
+}

@@ -1,0 +1,9 @@
+﻿extends layout
+
+block content
+  h1= title
+  div(class="select is-multiple")
+    select(id = "tm" multiple)
+      each tm in tms
+        option(value = tm.value label= tm.name)
+  div(id="viewDiv")
